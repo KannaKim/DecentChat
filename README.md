@@ -1,5 +1,5 @@
 # Decent Chat
-simple proof-of-concept on decentralized chatting.
+simple proof-of-concept on decentralized chat service.
 
 ## How it works 
 When a client sends a message, it isn't routed through a centralized server. Instead, the message is sent directly to an Ethereum smart contract.
